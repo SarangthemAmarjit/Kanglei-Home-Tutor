@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "775869697987",
+    "firebase_url": "https://fir-project2-fb36d-default-rtdb.firebaseio.com",
+    "project_id": "fir-project2-fb36d",
+    "storage_bucket": "fir-project2-fb36d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775869697987:android:138593e47db83344d13776",
+        "android_client_info": {
+          "package_name": "com.example.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775869697987-ds0k2abjpi9c6veudrsks0uubrofqulf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hpJKEz1nlGZ6B0BodEBO1t_aGI6LviE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775869697987-ds0k2abjpi9c6veudrsks0uubrofqulf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775869697987-818hspt1l55hvikt0rngnd85nkikls5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barcodescanner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775869697987:android:64a732b98d1a529cd13776",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775869697987-ds0k2abjpi9c6veudrsks0uubrofqulf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hpJKEz1nlGZ6B0BodEBO1t_aGI6LviE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775869697987-ds0k2abjpi9c6veudrsks0uubrofqulf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775869697987-818hspt1l55hvikt0rngnd85nkikls5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barcodescanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
